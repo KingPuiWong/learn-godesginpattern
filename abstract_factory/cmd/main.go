@@ -1,8 +1,8 @@
 package main
 
 import (
-	"abstract_factory"
 	"fmt"
+	"godesignpattern/abstract_factory"
 )
 
 func main() {
